@@ -1,5 +1,5 @@
-{ "movies":
-  [
+{ 
+  "movies": [
     {"id": 1, "title": "ultraman"},
     {"id": 2, "title": "king kong"},
     {"id": 3, "title": "godzillia"},
